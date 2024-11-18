@@ -11,7 +11,6 @@ Put the NWRD_train, NWRD_val and NWRD_test datasets to DCFM/data as the followin
 Co-salient-feature-extraction-for-WRD
    ├── other codes
    ├── ...
-   │ 
    └── data
          ├── NWRD_train
          ├── NWRD_val
