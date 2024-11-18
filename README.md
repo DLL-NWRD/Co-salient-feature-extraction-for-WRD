@@ -12,9 +12,11 @@ Co-salient-feature-extraction-for-WRD
    ├── other codes
    ├── ...
    └── data
-         ├── NWRD_train
-         ├── NWRD_val
-         ├── NWRD_test
+       ├── CoCo-SEG (CoCo-SEG's image files)
+       ├── CoCA (CoCA's image files)
+       ├── CoSOD3k (CoSOD3k's image files)
+       └── Cosal2015 (Cosal2015's image files)
+
 
 ## Trained model
 trained model can be downloaded from [papermodel](https://drive.google.com/drive/folders/1kvPTjDiOU6_puIWmNVoKYcoLIxuSIz82?usp=sharing).
