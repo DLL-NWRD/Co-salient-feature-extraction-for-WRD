@@ -10,7 +10,7 @@ testset: NWRD_val, NWRD_test
 Put the NWRD_train, NWRD_val and NWRD_test datasets to DCFM/data as the following structure:
 
 ## Trained model
-trained model can be downloaded from papermodel.
+trained model can be downloaded from [papermodel](https://drive.google.com/drive/folders/1kvPTjDiOU6_puIWmNVoKYcoLIxuSIz82?usp=sharing).
 Run test.py for inference.
 
 ## Usage
