@@ -17,7 +17,7 @@ Co-salient-feature-extraction-for-WRD
 └── data  
 &nbsp;&nbsp;&nbsp;&nbsp;├── NWRD_train
 &nbsp;&nbsp;&nbsp;&nbsp;├── NWRD_val 
-&nbsp;&nbsp;&nbsp;&nbsp;├── NWRD_test
+&nbsp;&nbsp;&nbsp;&nbsp;└── NWRD_test
 
 
 ## Trained model
