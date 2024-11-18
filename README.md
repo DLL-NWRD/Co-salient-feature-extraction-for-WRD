@@ -24,9 +24,5 @@ Co-salient-feature-extraction-for-WRD
 trained model can be downloaded from [papermodel](https://drive.google.com/drive/folders/1kvPTjDiOU6_puIWmNVoKYcoLIxuSIz82?usp=sharing).
 Run test.py for inference.
 
-## Usage
-Download pretrainde backbone model VGG.
-Run train.py for training.
-
 ## Others
 The code is based on DCFM. 
