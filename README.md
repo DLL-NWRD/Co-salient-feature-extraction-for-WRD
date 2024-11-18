@@ -9,13 +9,13 @@ trainset: NWRD_train
 testset: NWRD_val, NWRD_test
 Put the NWRD_train, NWRD_val and NWRD_test datasets to DCFM/data as the following structure:
 Co-salient-feature-extraction-for-WRD
-   ├── other codes
-   ├── ...
-   └── data
-       ├── CoCo-SEG (CoCo-SEG's image files)
-       ├── CoCA (CoCA's image files)
-       ├── CoSOD3k (CoSOD3k's image files)
-       └── Cosal2015 (Cosal2015's image files)
+├── other codes  
+├── ...  
+└── data  
+&nbsp;&nbsp;&nbsp;&nbsp;├── CoCo-SEG (CoCo-SEG's image files)  
+&nbsp;&nbsp;&nbsp;&nbsp;├── CoCA (CoCA's image files)  
+&nbsp;&nbsp;&nbsp;&nbsp;├── CoSOD3k (CoSOD3k's image files)  
+&nbsp;&nbsp;&nbsp;&nbsp;└── Cosal2015 (Cosal2015's image files)  
 
 
 ## Trained model
