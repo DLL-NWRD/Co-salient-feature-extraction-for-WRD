@@ -1,8 +1,17 @@
 # Co-salient-feature-extraction-for-WRD
-The official repo of the paper Democracy Does Matter: Comprehensive Feature Mining for Co-Salient Object Detection.
+Semantic segmentation of wheat yellow/stripe rust disease images to segment out rust and non-rust pixels using supervised deep learning.
 
 ## Environment Requirement
 create enviroment and intall as following: pip install -r requirements.txt
+
+## Dataset
+The NWRD dataset is a real-world segmentation dataset of wheat rust diseased and healthy leaf images specifically constructed for semantic segmentation of wheat rust disease. The NWRD dataset consists of 100 images in total at this moment.
+
+Sample images from The NWRD dataset; annotated images showing rust disease along with their binary masks:
+![image](https://github.com/user-attachments/assets/3e7eff0e-f546-4673-ac21-3c199af80628)
+Dataset is available at: https://dll.seecs.nust.edu.pk/downloads/
+
+
 
 ## Data Format
 trainset: NWRD_train
@@ -25,4 +34,4 @@ trained model can be downloaded from [papermodel](https://drive.google.com/drive
 Run test.py for inference.
 
 ## Others
-The code is based on DCFM. 
+The code is based on DCFM.
