@@ -8,7 +8,7 @@ create enviroment and intall as following: pip install -r requirements.txt
 trainset: NWRD_train
 testset: NWRD_val, NWRD_test
 Put the NWRD_train, NWRD_val and NWRD_test datasets to DCFM/data as the following structure:
-Co-salient-feature-extraction-for-WRD
+&nbsp;&nbsp;Co-salient-feature-extraction-for-WRD&nbsp;
 &nbsp;&nbsp;├── other codes  
 &nbsp;&nbsp;├── ...  
 &nbsp;&nbsp;└── data  
